@@ -66,6 +66,12 @@ footer{
     }
 }
 @media screen and (max-width: 550px){
+    body{
+        font-size: 3vw;
+    }
+    #profile a img{
+        width: 4vw;
+    }
     main{
         column-count: 1;
         text-align: center;
